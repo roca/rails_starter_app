@@ -1,4 +1,4 @@
-railszor
+Basic starter app 
 ========
 
-Application from PeepCode episode 045 on using Cucumber.
+
